@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/onofrimelisa/onofrimelisa/blob/main/profile.jpg" alt="Illustration of Melisa" width=350px height=465px/>
+<img align="right" src="https://github.com/onofrimelisa/onofrimelisa/blob/main/profile.jpg" alt="Illustration of Melisa" width=410px height=465px/>
 
 ### Hey there, I'm Melisa 👋
 
@@ -10,6 +10,8 @@ I’m a Fullstack Developer, Computer Science student and a fan of learning new 
 - 📫 How to reach me: onofrimelisa@gmail.com or my online portfolio [Melisa Ailén Onofri](https://onofrimelisa.github.io/myportfolio/)
 - 😄 Pronouns: she/her
 - ⚡ Technologies of preference: **Angular8, NodeJS, Typescript, Java**
+
+<br><br>
 
 <center> 
   <p align="center"> 
