@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Melisa 👋
 
-I’m a Fullstack Developer, Computer Science student and a fan of learning new things. My first creation as a developer was [Zeppelin Pedidos](zeppelinok.com), a web app for a company which delivers different products in a small village in Buenos Aires, Argentina 🇦🇷. Nowadays I work as a Software Development Analyst at Mercado Libre.
+I’m a Fullstack Developer, Computer Science student and a fan of learning new things. My first creation as a developer was [Zeppelin Pedidos](https://zeppelinok.com/#/home), a web app for a company which delivers different products in a small village in Buenos Aires, Argentina 🇦🇷. Nowadays I work as a Software Development Analyst at Mercado Libre.
 
 - 📱  I’m currently giving my first steps in **Data Science**, attending webinars and taking courses.
 - 🤓  I love studying **English** and **Mandarin Chinese**. 你应该试试看！
